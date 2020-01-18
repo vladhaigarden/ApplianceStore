@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>owntag</short-name>
+    <uri>/WEB-INF/captcha.tld</uri>
+    <tag-file>
+        <name>show</name>
+        <path>/WEB-INF/tags/captcha.tag</path>
+    </tag-file>
+</taglib>
